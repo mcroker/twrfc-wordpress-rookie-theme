@@ -1,1 +1,1 @@
-# twrfc-wordpress-theme
+# twrfc-wordpress-rookie-theme
