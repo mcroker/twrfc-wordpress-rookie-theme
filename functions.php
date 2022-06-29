@@ -1,4 +1,11 @@
 <?php
+// Sidebars
+require_once('sidebar-club.php');
+require_once('sidebar-homepage.php');
+require_once('sidebar-ladies.php');
+require_once('sidebar-youth.php');
+require_once('sidebar-schools.php');
+require_once('sidebar-academy.php');
 
 /**
  * Enqueue styles.
